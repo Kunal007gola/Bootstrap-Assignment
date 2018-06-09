@@ -1,0 +1,59 @@
+.search_button-left ,.close_button-right
+{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	background-color: white !important;
+	border-color: white !important;
+}
+.container-fluid
+{
+	margin: 0;
+	padding:0 !important;
+}
+.navbar-brand
+{
+	color: blue !important;
+	text-decoration: underline;
+	margin-right:  50%;
+}
+.navbar
+{
+	border : 2px solid black ;
+	border-radius: 10px;
+}
+.col-sm-8 , .col-sm-4
+{
+	padding: 20px !important;
+	margin: 0px !important;
+}
+.pad
+{
+	padding: 10px !important;
+}
+.card
+{
+	margin-bottom: 10px;
+}
+.phot
+{
+	width: 50%;
+}
+button:hover
+{
+	background-color: #e8eefb !important;
+	border-color: #0f265f !important;
+}
+
+.border-dark
+{
+	border-width: 2px;
+}
+
+.nav-search
+{
+	border-color: white !important;
+}	
+.nav-search:focus
+{
+	background-color: #e8eefb !important;
+}
